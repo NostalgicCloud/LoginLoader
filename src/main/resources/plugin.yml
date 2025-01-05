@@ -1,0 +1,12 @@
+name: loginloader
+version: '1.0-SNAPSHOT'
+main: nostalgic.cloud.loginloader.LoginLoader
+api-version: '1.21'
+load: STARTUP
+authors: [ clood ]
+website: https://github.com/NostalgicCloud
+commands:
+  setLocation:
+   description: sets the login location that forced players will be teleported to
+
+
